@@ -1,3 +1,6 @@
+#Task: Create two images one with a white circle at center and another with a white rentangle at center and performe all logical gate operations on both images and display the output images.
+
+
 from PIL import Image, ImageDraw
 import matplotlib.pyplot as plt
 
